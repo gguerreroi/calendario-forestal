@@ -12,7 +12,7 @@ Universidad Mariano Galvez
 - Php7.4 
 - MySql5.6 o MariaDb10
 
-# Instrucciones de implementacion para principiantes
+# Instrucciones de implementacion
 
 *Ambiente LAMP*
 
