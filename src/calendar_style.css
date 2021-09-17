@@ -1,0 +1,13 @@
+  /* Buttons Groups
+  --------------------------------------------------------------------------------------------------*/
+   
+  /* Day Row (used within the header and the DayGrid)
+  --------------------------------------------------------------------------------------------------*/
+  .fc-row {
+    position: relative;
+    background: #ffffff;/*Color de fondo del calendar*/
+  }
+  
+   .fc-toolbar .fc-header-toolbar{
+	background:#ffffff;
+}

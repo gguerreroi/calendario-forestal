@@ -1,0 +1,261 @@
+/*
+43d565 OTRO VERDE
+#85ff26  VERDE AMARILLO 
+12d2c8  el azulito verdoso 
+
+11ff4f  claro verde transparaente
+16bf42  oscuro  verde transparaente
+*/
+
+body{
+  background-image: url("forest.jpg");
+  background-position: center; 
+  background-repeat: no-repeat;
+    opacity: 0.8;
+}
+
+.container1,.container2{
+    width: 1450px;
+    border: 1px solid;
+    border-color: floralwhite;
+    /*    border-style: solid;*/
+    margin-left: 20px;
+}
+
+.poa, .cicloarbol, .cambiosol{
+    width: 100%;
+}
+
+#ciclo1{
+    width: 17%;
+    
+}
+#ciclo2{
+    width: 21%;
+}
+
+#thciclo{
+    width: 13.4%;
+    background-color: rgba(4, 115, 27,0.8);
+    color: white;
+    padding-right: 9px;
+    font: 12px, Arial, sans-serif;
+}
+
+#thtiempo{
+    width: 9.7%;
+    background-color: rgba(4, 115, 27,0.8);
+    color: white;
+    padding-right: 9px;
+    font: 12px, Arial, sans-serif;
+}
+
+/*************** COLORES!!!! ************************************/
+
+#titulo1, .titulo1{
+    background: #65B32E;
+    color: white;
+    font-weight: bold
+    font-family: sans-serif;
+    border: 2px solid;
+    border-color: floralwhite;
+    font-size: 15px;
+}
+
+#titulo2, .titulo2{
+    background: #009993;
+    color: white;
+    font-weight: bold
+    font: sans-serif;
+    border: 2px solid;
+    border-color: floralwhite;
+    font-size: 15px;
+}
+
+#mes1{
+    color: #43d565;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 1px solid;
+    border-color: #0a631e;
+    background: white;
+}
+
+#mes2{
+    color: #12d2c8;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 1px solid;
+    border-color: #0a631e;
+    background: white;
+}
+
+#diav1{
+    /*background: #ECF4E3;*/
+    background-color: rgba(236, 244, 227, 0.7);
+    font-weight: bold;
+    color: black;
+}
+
+#diav2{
+    /*background: #DFECCF;*/
+    background-color: rgba(223, 236, 207, 0.7);
+    font-weight: bold;
+    color: black;
+}
+
+#diaA2{
+    background-color: rgba(234, 245, 245, 0.5);
+    /*background: #EAF5F5;*/
+    font-weight: bold;
+    color: black;
+}
+
+#diaA1{
+    background-color: rgba(202, 230, 229, 0.7);
+    /* background: #CAE6E5; */
+    font-weight: bold;
+    color: black;
+}
+
+#space{
+    background-color: rgba(4, 115, 27, 0.2);
+    background: #04731b;
+    border: 1px solid;
+    border-color: #0a631e;
+}
+
+#xday{
+    background: #65B32E;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+/********************************************/
+#tleft{
+    background-color: rgba(4, 115, 27,0.8);
+    color: white;
+    padding-right: 9px;
+    font: 12px, Arial, sans-serif;
+    /*font-family: Arial, Helvetica, sans-serif;*/
+}
+
+#tright{
+      background-color: rgba(236, 236, 236,0.9);
+    color: #04731b;
+    text-align: left;
+    padding-left: 8px;
+    font: 12px, Arial, sans-serif;
+}
+
+
+.strip{
+   width: 1450px;
+   margin-left: 20px;
+}
+#luna{
+    max-width: 25%;
+}
+
+/*----------------------------------*/
+
+    /*tablas estilos */
+table {
+    border-collapse: collapse;
+    border-color: green;
+}
+table, th, td {
+    border: 1px solid black;
+}
+
+th{
+    text-align: right;
+    width: 15%;
+}
+td{
+    font-size: 12px;
+    text-align: center;
+}
+
+/*--------------------------------------*/
+h2{
+    font-size: 8;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    margin: 3px;
+}
+
+h1{
+    font-size: 10;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+}
+
+p{
+    font-size: 10;
+    font-family: "Times New Roman", Times, serif;
+}
+
+textarea{
+    font-size: 5px;
+}
+
+.separa{
+    width: 5px;
+    height: 15px;
+}
+
+/*  CONF ESTILOS DEL CSS DEL HEADER  */
+.top {
+  text-align: center;
+  background-color: rgba(115, 48, 4);
+  color: white;
+  font-size: 40px;
+  height: auto;
+  width: 800px;
+  margin-left: 500px;
+}
+
+#img {
+    margin-top: 2px;
+    margin-left: 20px;
+    border-radius: 50%;
+    width : 140px;
+    height : 100px;
+    position: absolute;
+        }
+h4{
+padding: 0%;
+font-size: 18px;
+font-family: "Times New Roman", Times, serif;
+text-align: center;
+}
+
+h3{
+text-align: right;
+font-size: 20px;
+font-family: "Times New Roman", Times, serif;
+text-align: center;
+}
+
+
+p2{
+        font-size: 13px;
+        font-family: "Times New Roman", Times, serif;
+        font-style: oblique;
+}
+
+/*-----------------------FIN HEADER ------------------------------*/
+#acti1{
+    border: 3px solid #73AD21;
+    position: relative;
+    background: #d6f5db;
+    width: 100%;
+}
+
+#acti2{
+    border: 3px solid rgb(173, 33, 75);
+    position: relative;
+    background: #f5f5d6;
+    width: 100%;
+}
