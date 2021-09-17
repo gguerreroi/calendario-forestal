@@ -1,4 +1,4 @@
 # Proyecto desarrollado por:
 @Abel Vásquez
-@Nery Díaz  
+@Nery Díaz
 @Edinson Cuc
